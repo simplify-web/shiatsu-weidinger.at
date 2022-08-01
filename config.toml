@@ -1,5 +1,5 @@
-baseURL = "https://hugo.simplify-it.net"
-
+#baseURL = "https://hugo.simplify-it.net"
+baseURL = "/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]

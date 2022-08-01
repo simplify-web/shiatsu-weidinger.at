@@ -4,7 +4,9 @@
   "description": "git init gca \"init\" git remote set-url origin git@github.com:simplify-web/hugo-onepager.git",
   "main": "index.js",
   "scripts": {
-    "dev": "hugo serve -D --bind 0.0.0.0 --baseURL http://mate:1313"
+    "dev": "run-p hugo netlify-cms-proxy",
+    "hugo": "hugo serve -D --bind 0.0.0.0",
+    "netlify-cms-proxy": "npx netlify-cms-proxy-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/simplify-web/hugo-onepager/issues"
   },
-  "homepage": "https://github.com/simplify-web/hugo-onepager#readme"
+  "homepage": "https://github.com/simplify-web/hugo-onepager#readme",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
 }
