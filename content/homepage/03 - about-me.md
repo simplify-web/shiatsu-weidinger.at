@@ -1,10 +1,10 @@
 ---
-title: "About Me"
+title: "Über mich"
 weight: 3
 header_menu: true
 ---
 
-![Jane Doe](images/31.jpg)
+![Martin Weidinger](images/31-martin-klein.jpg)
 
 ##### Professionel Experience
 

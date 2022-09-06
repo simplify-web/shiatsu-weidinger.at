@@ -1,5 +1,5 @@
 ---
-title: "Map"
+title: "Anfahrt"
 weight: 5
 header_menu: true
 ---
