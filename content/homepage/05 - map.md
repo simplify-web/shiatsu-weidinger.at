@@ -1,7 +1,7 @@
 ---
 title: "Anfahrt"
 weight: 5
-header_menu: true
+header_menu: false
 ---
 
 ##### Nice map
