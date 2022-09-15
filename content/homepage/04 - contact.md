@@ -4,8 +4,8 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[martin@shiatsu-weidinger.at](mailto:martin@shiatsu-weidinger.at)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp;[+43 690 2004918](tel:+436902004918)
 
-Let us get in touch!
+Ich freue mich über dein Mail oder deinen Anruf!
