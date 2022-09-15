@@ -4,19 +4,40 @@ weight: 2
 header_menu: false
 ---
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+Du liegst in bequemer Kleidung auf einer speziellen Matte am Boden und ich arbeite teils mit sanftem, teils mit intensivem Druck sowie mit Rotationen, Dehnungen und rhythmischen Bewegungen am Körper. 
 
 ---
 
-## Nutrition Coaching
+##### BEGINN
+Beim ersten Termin lernen wir uns kennen und du erzählst mir bei welchen Anliegen ich dich unterstützen darf. 
+Alle persönlichen Daten und sämtliche Gesprächsinhalte werden von mir achtsam behandelt und in keiner Weise weitergegeben!  
+<br>
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
+##### BITTE MITBRINGEN
+Bitte ziehe dir bequeme Kleidung mit langen Armen und langen Beinen sowie Socken an, oder bringe diese Kleidung mit. Es gibt eine Ümziehmöglichkeit in meiner Praxis.  <br>
 
-![Nice picture to make you pay me ;-)](images/21.jpg)
+##### DAUER
+Eine Sitzung dauert in der Regel ca. 60 Minuten. Für den ersten Termin bitte etwas mehr Zeit einplanen.  <br>
 
-Wow. That was nice, right? Well, call me and let us talk.
+##### KOSTENÜBERNAHMNE DURCH DIE KRANKENKASSE
+Klientinnen und Klienten tragen die Kosten in der Regel selbst. Zusatz­versicherungen sowie manche Kranken­kassen (z.B. KFL) erstatten die Kosten. Bitte erkundige dich ggf. vor der ersten Sitzung bei deiner Krankenkasse, ob eine Kosten­übernahme möglich ist.  <br>
 
----
+##### HONORAR
+Für einstündige Termine erlaube ich mir 67 Euro zu berechnen.  <br>
+
+##### TERMINABSAGE
+Solltest du einen vereinbarten Termin nicht wahrnehmen können, bitte ich um rechtzeitige Absage. Eine Absage ist bis 24 Stunden vorher kostenfrei möchlich, für verspätete Absagen oder nicht wahrgenommene Termine wird der volle Betrag in Rechnung gestellt.  <br>
+
+
+
+<!--![Nice picture to make you pay me ;-)](images/21.jpg)-->
+##### RECHTLICHER HINWEIS
+
+<sub><sub>Shiatsu-Behandlungen stellen keinen Ersatz für psychotherapeutische oder ärztliche Behandlungen dar. Sie sind als Ergänzung und zur Mobilisation der Selbstheilungskräfte gedacht.
+
+Die Methoden wirken auf der energetischen und feinstofflichen Ebene.</sub>
+
+<!---
 
 ## Chef Consulting
 
@@ -34,4 +55,4 @@ in estimated seconds.
 
 Want to learn more about my services?
 
-Check out [this page](services) I created. It carries a lot more details...
+Check out [this page](services) I created. It carries a lot more details... -->

@@ -4,8 +4,7 @@ weight: 1
 header_menu: true
 ---
 
-Shiatsu ist ... 
+Shiatsu ist eine japanische Massagetechnik, die auf der Traditionellen Chinesischen Medizin beruht. Es werden Verspannungen gelöst, Gelenke mobilisiert und die Meridiane ausgeglichen.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
+Eine Shiatsu-Behandlung wirkt sich positiv auf das Nervensystem und somit auf das Selbstheilungspotential der Zellen aus. Es ist eine gute Möglichkeit Stress und Überforderung im Privat- und Berufsleben vorbeugend zu begegnen!
 
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.

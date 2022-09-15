@@ -6,8 +6,26 @@ header_menu: true
 
 ![Martin Weidinger](images/31-martin-klein.jpg)
 
-##### Professionel Experience
+Ich bin gelernter Maschinenbautechniker, doch mein Weg führte mich über die Veranstaltungstechnik zur Landwirtschaft und schließlich zu Shiatsu.
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+Schon während meiner Lehrzeit begann ich mich für spirituelle Arbeit und Persönlichkeitsentwicklung zu interessieren.
+Nach etlichen Seminaren und Ausbildungen im spirituellen, heilerischen und persönlichkeitsentwickelnden Bereich kam ich schließlich zu Shiatsu.
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+...
+
+
+##### Meine Ausbildingen:
+
+* Shiatsu (ISSÖ, 2020)
+* Shiatsu in der Schwangerschaft (ISSÖ, 2020)
+<!--
+* IACFS-Shaman Practitioner, Master, Leader (Schamanismus Akademie)
+* Reiki I,II,III (Ingrid Neubauer)
+* Methamorphsche Methode (Ingrid Neubauer)
+* Dorn-Breuss (Sabine Daschiel)
+* Schüsslersalze und Antlitzanalyse (BFI)
+* Kinesiologie Touch for Health I, II (BFI - Edda Beisl)-->
+
+* Landwirtschaftlicher Facharbeiter (Landwirtschaftsschule Freistadt, 2011)
+* Maschinenbautechniker (Voest Alpine GmbH Linz, 2005)
+
