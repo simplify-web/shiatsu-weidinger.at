@@ -1,11 +1,22 @@
 ---
 title: "Anfahrt"
-weight: 5
-header_menu: false
+weight: 4
+header_menu: true
 ---
 
-##### Nice map
+##### Praxis in Freistadt
 
-1. one day is done and 
-2. amazing hugo
-3. more
+Waaggasse 7a  
+4240 Freistadt
+
+![Waaggasse 7a, 4240 Freistadt](images/51-map-freistadt.png)
+
+&nbsp;
+
+##### Praxis in Linz
+
+Grillparzerstraße 2/2/19   
+4020 Linz
+
+![Grillparzerstraße 2/2/19, 4020 Linz](images/52-map-linz.png)
+
