@@ -10,6 +10,6 @@ header_menu: true
 
 Ich freue mich über dein Mail oder deinen Anruf!
 
----
+&nbsp;
 
 ![Shiatsu Martin Weidinger](images/41-logo.png)
