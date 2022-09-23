@@ -17,7 +17,7 @@ Eine Shiatsu-Behandlung wirkt sich positiv auf das Nervensystem und somit auf da
 
 ##### Shiatsu zur Linderung von Beschwerden
 - zur Beschleunigung der Heilung nach Unfällen oder Krankheiten
-- bei Verpannungen 
+- bei Verspannungen 
 - bei Beschwerden des Bewegungsapparates
 - bei Müdigkeit, Erschöpfung, Schlaf­problemen
 - bei Kopfschmerzen, Migräne, Wetterfühligkeit 

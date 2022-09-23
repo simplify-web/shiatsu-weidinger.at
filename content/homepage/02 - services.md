@@ -10,7 +10,7 @@ Du liegst in bequemer Kleidung auf einer speziellen Matte am Boden und ich arbei
 
 ##### Bitte mitbringen!
 - Bitte ziehe dir bequeme Kleidung mit langen Armen und langen Beinen sowie Socken an, oder bringe diese Kleidung mit. 
-- Es gibt eine Ümziehmöglichkeit in meiner Praxis.
+- Es gibt eine Umziehmöglichkeit in meiner Praxis.
 
 ##### Beginn
 - Du erzählst mir bei welchen Anliegen ich dich unterstützen darf. 
