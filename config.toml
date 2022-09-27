@@ -4,7 +4,7 @@ baseURL = "/"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-1page"
