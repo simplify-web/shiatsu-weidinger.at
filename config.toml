@@ -1,6 +1,9 @@
 #baseURL = "https://hugo.simplify-it.net"
 baseURL = "/"
 
+# have all images in static being proccesed by hugo
+assetDir = "static"
+
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
@@ -37,6 +40,7 @@ title = "Martin Weidinger - Shiatsu Therapeut"
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     # hidedesignbyline = true
-
     [params.meta]
         keywords = "shiatsu, weidinger, freistadt"
+    
+
