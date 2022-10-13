@@ -1,3 +1,2 @@
-1. Content
-2. Seitenmenü größer
-3. Startseite von Isabella gestalten lassen
+1. Seitenmenü größer
+2. Startseite von Isabella gestalten lassen
