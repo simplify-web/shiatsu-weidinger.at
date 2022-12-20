@@ -11,3 +11,8 @@ Größere Änderungen mit Hugo:
 2. in Markdown und speichern
 3. Commit (wenn ein Bereich fertig ist)
 4. Synchronize Changes (wenn alles fertig ist) --> das wird dann online gestellt
+
+
+
+### Tools
+Bilder kleinmachen: https://imagecompressor.com/
