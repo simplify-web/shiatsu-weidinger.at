@@ -16,3 +16,5 @@ Größere Änderungen mit Hugo:
 
 ### Tools
 Bilder kleinmachen: https://imagecompressor.com/
+
+- google tag manager for SEO
